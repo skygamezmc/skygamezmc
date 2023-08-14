@@ -22,3 +22,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skygamezmc&show_icons=true&locale=en" alt="skygamezmc" /></p>
 
 <p>p.s i stole pretty much this whole readme thing from my boss Rockyers but dont tell him ;)</p>
+
+
+<p>p.p.s chatgpt rlly be saving my whole career LOL</p>
