@@ -5,7 +5,7 @@
 - 🌱 Well experienced **SpigotMC Plugin Developer** and **Game Developer**
 - 🎮 Making useful Spigot Plugins. Check out my [SpigotMC Resources](https://www.spigotmc.org/resources/authors/skygamez.1047344/)
 
-- <h3 align="left">Things i somehow figured out how to use:</h3>
+<h3 align="left">Things i somehow figured out how to use:</h3>
 <p align="left">
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://www.microsoft.com/en-us/p/c/9nblggh4tx22" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
