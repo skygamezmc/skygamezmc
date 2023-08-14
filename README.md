@@ -4,6 +4,7 @@
 - 🌍 Currently working at **[LumenMC](https://lumenmc.org)**
 - 🌱 Well experienced **SpigotMC Plugin Developer** and **Game Developer**
 - 🎮 Making useful Spigot Plugins. Check out my [SpigotMC Resources](https://www.spigotmc.org/resources/authors/skygamez.1047344/)
+- ⚡ Fun Fact: ChatGPT rlly be saving my whole career
 
 <h3 align="left">Things i somehow figured out how to use:</h3>
 <p align="left">
@@ -22,6 +23,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skygamezmc&show_icons=true&locale=en" alt="skygamezmc" /></p>
 
 <p>p.s i stole pretty much this whole readme thing from my boss Rockyers but dont tell him ;)</p>
-
-
-<p>p.p.s chatgpt rlly be saving my whole career LOL</p>
