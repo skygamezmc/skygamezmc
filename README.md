@@ -4,7 +4,7 @@
 - 🌍 Currently working at **[LumenMC](https://lumenmc.org)**
 - 🌱 Well experienced **SpigotMC Plugin Developer** and **Game Developer**
 - 🎮 Making useful Spigot Plugins. Check out my [SpigotMC Resources](https://www.spigotmc.org/resources/authors/skygamez.1047344/)
-- ⚡ Fun Fact: ChatGPT rlly be saving my whole career
+- ⚡ Fun Fact: code go brr
 
 <h3 align="left">Things i somehow figured out how to use:</h3>
 <p align="left">
